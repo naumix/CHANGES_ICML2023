@@ -1,3 +1,3 @@
-# CHANGES_ICML2023
+## Repository associated with the paper "On Many-Actions Policy Gradient" (published in ICML 2023)
 
-ICML2023 rebuttal 
+Code based on CleanRL repository (https://docs.cleanrl.dev). All files are self-contained.
